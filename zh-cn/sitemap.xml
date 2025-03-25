@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Astrid0311.github.io/hugo-stack/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-26T03:31:52+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -19,6 +19,25 @@
                 hreflang="zh-cn"
                 href="https://Astrid0311.github.io/hugo-stack/"
                 />
+  </url><url>
+    <loc>https://Astrid0311.github.io/hugo-stack/post/</loc>
+    <lastmod>2025-03-26T03:31:52+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://Astrid0311.github.io/hugo-stack/ar/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://Astrid0311.github.io/hugo-stack/post/"
+                />
+  </url><url>
+    <loc>https://Astrid0311.github.io/hugo-stack/p/test2/</loc>
+    <lastmod>2025-03-26T03:31:52+08:00</lastmod>
+  </url><url>
+    <loc>https://Astrid0311.github.io/hugo-stack/p/test/</loc>
+    <lastmod>2025-03-26T03:28:19+08:00</lastmod>
   </url><url>
     <loc>https://Astrid0311.github.io/hugo-stack/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -40,19 +59,6 @@
   </url><url>
     <loc>https://Astrid0311.github.io/hugo-stack/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://Astrid0311.github.io/hugo-stack/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://Astrid0311.github.io/hugo-stack/ar/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://Astrid0311.github.io/hugo-stack/post/"
-                />
   </url><url>
     <loc>https://Astrid0311.github.io/hugo-stack/categories/test/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -99,10 +105,10 @@
                 href="https://Astrid0311.github.io/hugo-stack/tags/"
                 />
   </url><url>
-    <loc>https://Astrid0311.github.io/hugo-stack/tags/themes/</loc>
+    <loc>https://Astrid0311.github.io/hugo-stack/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://Astrid0311.github.io/hugo-stack/categories/themes/</loc>
+    <loc>https://Astrid0311.github.io/hugo-stack/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://Astrid0311.github.io/hugo-stack/p/placeholder-text/</loc>
